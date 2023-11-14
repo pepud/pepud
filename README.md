@@ -6,7 +6,7 @@ IT Student & Developer
 
 Experiencing Cyber Security & Gamehacking
 
-* 🌍  Based in Lugano, Switzerland
+* 🌍  Based in Trieste, Italy
 * 🧠  Learning C++
 
 ### Skills
