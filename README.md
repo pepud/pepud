@@ -4,7 +4,7 @@ Hi 👋 My name is pepud
 IT Student & Developer
 ----------------------
 
-Experiencing Cyber Security & Gamehacking
+Experiencing Programming, Cyber Security & Gamehacking
 
 * 🌍  Based in Trieste, Italy
 * 🧠  Learning C++
