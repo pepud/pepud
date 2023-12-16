@@ -6,7 +6,6 @@ IT Student & Developer
 
 Experiencing Programming, Cyber Security & Gamehacking
 
-* 🌍  Based in Trieste, Italy
 * 🧠  Learning C++, Java
 
 ### Skills
